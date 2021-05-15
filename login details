@@ -1,9 +1,11 @@
 //LOGIN FOR ADMIN/LECTURE
 
+LINK:localhost/e-learnigsystem/admin/login.php
 USERNAME: admin
 password: admin
 
 //LOGIN FOR STUDENT
 
+LINK:localhost/e-learnigsystem/index.php
 USERNAME: a
 PASSWORD: a
